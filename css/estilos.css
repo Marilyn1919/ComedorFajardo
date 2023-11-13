@@ -1,0 +1,38 @@
+body {
+	background:#aab1eb;
+    width: 1200px;
+    height: 1200px;
+   
+    
+}
+ 
+
+h1 {
+    color:navy ;
+}
+
+div{
+   width:50%;
+   margin: auto;
+}
+
+img {
+   width:300px;
+   height: auto;
+}
+
+p {
+    text-align: center;
+}
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+header, main,  footer {
+    background: #d2d6f8;
+    width: 90%;
+    max-width:1000px;
+    margin: auto;
+}
